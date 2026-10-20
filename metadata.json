@@ -1,0 +1,6 @@
+{
+  "name": "Learning Companion",
+  "description": "AI-Powered Personalized Learning Platform for Computer Science curriculum, intelligent tutoring, grounded document RAG, flashcards, adaptive quizzes, and study planning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
